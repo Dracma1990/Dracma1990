@@ -9,7 +9,7 @@ I like to stay constantly up-to-date. I recently completed a technology bootcamp
 
 SKILLS:
 
-(https://img.shields.io/badge/PYTHON-20B2AA?style=for-the-badge)
+![PYTHON](https://img.shields.io/badge/PYTHON-20B2AA?style=for-the-badge)</br>
 
 My TripleTen Projects: 
 
