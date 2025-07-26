@@ -11,7 +11,7 @@ SKILLS:
 
 ![PYTHON](https://img.shields.io/badge/PYTHON-20B2AA?style=for-the-badge)</br>
 ![SQL](https://img.shields.io/badge/SQL-F54927?style=for-the-badge)</br>
-![ANDROID STUDIO](https://img.shields.io/badge/ANDROID STUDIO-1E4A75?style=for-the-badge)</br>
+![ANDROID-STUDIO](https://img.shields.io/badge/ANDROID-STUDIO-1E4A75?style=for-the-badge)</br>
 ![POSTMAN](https://img.shields.io/badge/POSTMAN-BA7929?style=for-the-badge)</br>
 ![JIRA](https://img.shields.io/badge/JIRA-3B3937?style=for-the-badge)</br>
 
