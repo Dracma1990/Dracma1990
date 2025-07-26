@@ -51,12 +51,12 @@ SPRINT 6: Database Fundamentals
 SPRINT 7: Introduction to Test Automation
 
 • Using PyCharm, I developed code to build automated tests in Python for functions in the Urban Grocers app.
-• Uploaded my code to GitHub for review.
+• Uploaded my code to GitHub for review: https://github.com/Dracma1990/qa-project-Urban-Grocers-app-es
 
 SPRINT 8: Web Application Test Automation
 
 • Using PyCharm, I developed code to build automated tests in Python for functions of the Urban Routes application.
-• Uploaded my code to GitHub for review.
+• Uploaded my code to GitHub for review: https://github.com/Dracma1990/qa-project-Urban-Routes-es
 
 SPRINT 9: Final Project
 
