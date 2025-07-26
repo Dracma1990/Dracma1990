@@ -6,6 +6,11 @@ I like to stay constantly up-to-date. I recently completed a technology bootcamp
 
 - 🔭 I’m currently looking for my first job as a Jr. QA Engineer
 
+
+SKILLS:
+
+!(Python)(https://img.shields.io/badge/PYTHON-20B2AA?style=for-the-badge)</br>
+
 My TripleTen Projects: 
 
 SPRINT 1: Introduction to QA Engineering
